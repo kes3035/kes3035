@@ -2,7 +2,6 @@
 I wanna be the BEST Developer~~
 
 ### 🧑🏻‍💻Skills
-<img src="https://img.shields.io/badge/iOS?style=flat-square&logo=Android&logoColor=white"/> 
 <!--
 **kes3035/kes3035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
