@@ -2,9 +2,10 @@
 
 ## Hello I'm EunSang😊 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkes3035%2Fhit-counter&count_bg=%23142684&title_bg=%23555555&icon=&icon_color=%23460ED7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- StudyWithMe : 스터디 일정 조율앱 (2023.01.05 - 2023.03.09)
-- DRBS : 자취생을 위한 앱 (2023.01.31 - )
-- Allen's Swift Master School : 앨런의 스위프트 문법 마스터 스쿨(16기) (2022.11.27 - 2023.01.29)
+- **StudyWithMe**👊🏼 : 스터디 일정 조율앱 (2023.01.05 - 2023.03.09)
+- **DRBS**🏠 : 자취생을 위한 앱 (2023.01.31 - )
+  - **DRBS: 임장** : DRBS 임장 체크리스트 부분 기능 앱 (2023.08.01 - )
+- **Allen's Swift Master School**🏫 : 앨런의 스위프트 문법 마스터 스쿨(16기) (2022.11.27 - 2023.01.29)
   
 
 <div align="center">
